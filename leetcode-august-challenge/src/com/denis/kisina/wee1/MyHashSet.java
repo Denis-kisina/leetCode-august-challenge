@@ -1,15 +1,11 @@
 package com.denis.kisina.wee1;
 
-import java.util.Queue;
-import java.util.Stack;
-
 public class MyHashSet {
 
 	/** Initialize your data structure here. */
 	int set[] = new int[1000001];
 
 	public MyHashSet() {
-		Stack<E>
 
 	}
 
