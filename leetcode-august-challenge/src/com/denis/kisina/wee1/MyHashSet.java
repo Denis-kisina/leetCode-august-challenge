@@ -1,11 +1,15 @@
 package com.denis.kisina.wee1;
 
+import java.util.Queue;
+import java.util.Stack;
+
 public class MyHashSet {
 
 	/** Initialize your data structure here. */
 	int set[] = new int[1000001];
 
 	public MyHashSet() {
+		Stack<E>
 
 	}
 
@@ -26,8 +30,11 @@ public class MyHashSet {
 	public static void main(String[] args) {
 		MyHashSet obj = new MyHashSet();
 		obj.add(2);
-		obj.remove(2);
+		obj.add(3);
+		obj.remove(3);
 		boolean param_3 = obj.contains(2);
+
+		System.out.println(param_3);
 	}
 }
 
