@@ -1,4 +1,4 @@
-package com.denis.kisina.wee1;
+package com.denis.kisina.week1;
 
 class ValidPalindrome {
 	public boolean isPalindrome(String s) {

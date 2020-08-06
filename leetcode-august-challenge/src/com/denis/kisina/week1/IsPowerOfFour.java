@@ -1,4 +1,4 @@
-package com.denis.kisina.wee1;
+package com.denis.kisina.week1;
 
 public class IsPowerOfFour {
 	public boolean isPowerOfFour(int num) {
